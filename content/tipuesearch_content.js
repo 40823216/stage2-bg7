@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'stage2-bg7', 'text': '小組倉儲 \n', 'tags': '', 'url': 'stage2-bg7.html'}, {'title': '組員', 'text': '40823238倉儲 \xa0 40823238網站 \n 40823218倉儲 \xa0 \n 40823211倉儲 \n 40823216倉儲 \n \n', 'tags': '', 'url': '組員.html'}]};
+var tipuesearch = {"pages": [{'title': 'stage2-bg7', 'text': '小組倉儲 \n', 'tags': '', 'url': 'stage2-bg7.html'}, {'title': '組員', 'text': '40823238倉儲 \xa0 40823238網站 \n 40823218倉儲 \xa0 \n 40823211倉儲   40823211網站 \n 40823216倉儲 \n \n', 'tags': '', 'url': '組員.html'}]};
