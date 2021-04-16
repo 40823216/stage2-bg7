@@ -292,52 +292,13 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818195541.1">&lt;section&gt;
-    &lt;h2&gt;Clever Quotes&lt;/h2&gt;
-    &lt;p&gt;
-        These guys come in two forms, inline: &lt;q cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations"&gt;The nice thing about standards is that there are so many to choose from&lt;/q&gt; and block:
-    &lt;/p&gt;
-    &lt;blockquote cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations"&gt;
-        &amp;ldquo;For years there has been a theory that millions of monkeys typing at random on millions of typewriters would
-        reproduce the entire works of Shakespeare. The Internet has proven this theory to be untrue.&amp;rdquo;
-    &lt;/blockquote&gt;
+     @others
 &lt;/section&gt;
 </t>
-<t tx="leo.20200818195604.1">&lt;section&gt;
-    &lt;h2&gt;Intergalactic Interconnections&lt;/h2&gt;
-    &lt;p&gt;
-        You can link between slides internally,
-        &lt;a href="#/2/3"&gt;like this&lt;/a&gt;.
-    &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818195625.1">&lt;section&gt;
-    &lt;h2&gt;Speaker View&lt;/h2&gt;
-    &lt;p&gt;There's a &lt;a href="https://revealjs.com/speaker-view/"&gt;speaker view&lt;/a&gt;. It includes a timer, preview of the upcoming slide as well as your speaker notes.&lt;/p&gt;
-    &lt;p&gt;Press the &lt;em&gt;S&lt;/em&gt; key to try it out.&lt;/p&gt;
-
-    &lt;aside class="notes"&gt;
-        Oh hey, these are some notes. They'll be hidden in your presentation, but you can see them if you open the speaker notes window (hit 's' on your keyboard).
-    &lt;/aside&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818195643.1">&lt;section&gt;
-    &lt;h2&gt;Export to PDF&lt;/h2&gt;
-    &lt;p&gt;Presentations can be &lt;a href="https://revealjs.com/pdf-export/"&gt;exported to PDF&lt;/a&gt;, here's an example:&lt;/p&gt;
-    &lt;iframe data-src="https://www.slideshare.net/slideshow/embed_code/42840540" width="445" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818195701.1">&lt;section&gt;
-    &lt;h2&gt;Global State&lt;/h2&gt;
-    &lt;p&gt;
-        Set &lt;code&gt;data-state="something"&lt;/code&gt; on a slide and &lt;code&gt;"something"&lt;/code&gt;
-        will be added as a class to the document element when the slide is open. This lets you
-        apply broader style changes, like switching the page background.
-    &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
+<t tx="leo.20200818195604.1"></t>
+<t tx="leo.20200818195625.1"></t>
+<t tx="leo.20200818195643.1"></t>
+<t tx="leo.20200818195701.1"></t>
 <t tx="leo.20210416150042.1">&lt;section&gt;
 &lt;h2&gt;第二版_使用COPPELIASIM模擬&lt;/h2&gt;
 &lt;h4&gt;問題:圓盤部分會碰撞使球彈開。&lt;/h4&gt;
