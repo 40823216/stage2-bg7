@@ -202,8 +202,8 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
     &lt;h2&gt;主題:發球機&lt;/h2&gt;
-    &lt;p&gt;&lt;img ait="" height="500" src="./../images/發球機組合件2.png" width="500"/&gt;&lt;/p&gt;
-    &lt;h4&gt;動機:&lt;/h4&gt;
+    &lt;p&gt;&lt;img ait="" height="400" src="./../images/發球機組合件2.png" width="500"/&gt;&lt;/p&gt;
+    &lt;p&gt;動機:&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20200818170636.1">&lt;!-- Example of nested vertical slides --&gt;
 &lt;section&gt;
