@@ -40,11 +40,18 @@
 <v t="leo.20200818195147.1"><vh>漏斗雛形</vh></v>
 <v t="leo.20200818195520.1"><vh>模擬</vh></v>
 </v>
+<v t="leo.20210423010507.1"><vh>7.w9</vh>
+<v t="leo.20210423010539.1"><vh>籃子</vh></v>
+<v t="leo.20210423011349.1"><vh>館子</vh></v>
+<v t="leo.20210423011413.1"><vh>噴嘴</vh></v>
+<v t="leo.20210423011414.1"><vh>主體+噴嘴</vh></v>
+<v t="leo.20210423011415.1"><vh>模擬</vh></v>
+</v>
 <v t="leo.20200818195541.1"><vh>心得</vh>
 <v t="leo.20200818195604.1"><vh>40823211</vh></v>
 <v t="leo.20200818195625.1"><vh>40823216</vh></v>
 <v t="leo.20200818195643.1"><vh>40823218</vh></v>
-<v t="leo.20200818195701.1"><vh>40823248</vh></v>
+<v t="leo.20200818195701.1"><vh>40823238</vh></v>
 </v>
 </v>
 </v>
@@ -203,11 +210,11 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
     &lt;h2&gt;主題:發球機&lt;/h2&gt;
     &lt;p&gt;&lt;img ait="" height="400" src="./../images/發球機組合件2.png" width="500"/&gt;&lt;/p&gt;
-    &lt;p&gt;動機:&lt;/p&gt;
+    &lt;p&gt;動機:上體育課的時候幫同學餵球覺得效率很差，因此想設計一款簡單輕巧的發球機&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20200818170636.1">&lt;!-- Example of nested vertical slides --&gt;
 &lt;section&gt;
-&lt;h1&gt;構造原理&lt;/h1&gt;
+&lt;h1&gt;構造原理:運用圓盤控制放球的速度，並用兩個旋轉的摩擦輪發射球&lt;/h1&gt;
     &lt;h2&gt;&lt;/h2&gt;
 &lt;/section&gt;
 
@@ -287,6 +294,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818195520.1">&lt;section&gt;
 &lt;h2&gt;第二版_使用COPPELIASIM模擬&lt;/h2&gt;
+&lt;h4&gt;問題:圓盤的部分還有一些問題，開碰撞會彈走。&lt;/h4&gt;
 &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/zSUcFKTthro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;
 
@@ -296,13 +304,47 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818195604.1"></t>
-<t tx="leo.20200818195625.1"></t>
+<t tx="leo.20200818195625.1">&lt;section&gt;
+&lt;h2&gt;心得_40823216陳弘勛&lt;/h2&gt;
+    &lt;p&gt;在第二次分組的這五個星期中，我能更熟悉快速地去做協同的動作。在做的時候也會遇到各種問題，但是經過組員的協商，我們也都克服了過去，能做完這件作品，是非常開心的，也離不開我的組員的幫助，所以非常的感謝他們。&lt;/p&gt;
+&lt;/section&gt;
+</t>
 <t tx="leo.20200818195643.1"></t>
 <t tx="leo.20200818195701.1"></t>
 <t tx="leo.20210416150042.1">&lt;section&gt;
 &lt;h2&gt;第二版_使用COPPELIASIM模擬&lt;/h2&gt;
 &lt;h4&gt;問題:圓盤部分會碰撞使球彈開。&lt;/h4&gt;
 &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/BLFhSflxA-4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20210423010507.1">&lt;section&gt;
+     @others
+&lt;/section&gt;
+</t>
+<t tx="leo.20210423010539.1">&lt;section&gt;
+    &lt;h2&gt;結構零件圖&lt;/h2&gt;
+    &lt;p&gt;&lt;img ait="" height="400" src="./../images/w9漏斗.png" width="500"/&gt;&lt;/p&gt;
+    &lt;h4&gt;籃子:更改籃子還是無法解決卡球的問題。&lt;/h4&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210423011349.1">&lt;section&gt;
+    &lt;h2&gt;結構零件圖&lt;/h2&gt;
+    &lt;p&gt;&lt;img ait="" height="400" src="./../images/w9漏斗_1.png" width="500"/&gt;&lt;/p&gt;
+    &lt;h4&gt;管子:將籃子改為管子，解決卡球的問題&lt;/h4&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210423011413.1">&lt;section&gt;
+    &lt;h2&gt;結構零件圖&lt;/h2&gt;
+    &lt;p&gt;&lt;img ait="" height="400" src="./../images/w9發射器管道.png" width="500"/&gt;&lt;/p&gt;
+    &lt;h4&gt;噴嘴:新增噴嘴，為了使球能以最正確的方向噴出。&lt;/h4&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210423011414.1">&lt;section&gt;
+    &lt;h2&gt;結構零件圖&lt;/h2&gt;
+    &lt;p&gt;&lt;img ait="" height="400" src="./../images/w9主體+發射器管道.png" width="500"/&gt;&lt;/p&gt;
+    &lt;h4&gt;主體+噴嘴組合圖&lt;/h4&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210423011415.1">&lt;section&gt;
+&lt;h2&gt;第三版_使用COPPELIASIM模擬&lt;/h2&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/AhwFZV0kfcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;
 
 </t>
