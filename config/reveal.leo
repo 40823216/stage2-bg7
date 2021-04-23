@@ -41,6 +41,7 @@
 <v t="leo.20200818195520.1"><vh>模擬</vh></v>
 </v>
 <v t="leo.20210423010507.1"><vh>7.w9</vh>
+<v t="leo.20210423135719.1"><vh>組合圖</vh></v>
 <v t="leo.20210423010539.1"><vh>籃子</vh></v>
 <v t="leo.20210423011349.1"><vh>館子</vh></v>
 <v t="leo.20210423011413.1"><vh>噴嘴</vh></v>
@@ -303,14 +304,24 @@ vertical: body pane on the botton</t>
      @others
 &lt;/section&gt;
 </t>
-<t tx="leo.20200818195604.1"></t>
+<t tx="leo.20200818195604.1">&lt;section&gt;
+&lt;h2&gt;心得_40823211陳昱&lt;/h2&gt;
+    &lt;p&gt;這次做的發球機改版了許多次，因為在過程中有許多發球不順的可能，一次一次的改版也一次一次的解決各種問題。過程中，組員一同努力，一同加油打氣，在大家的同心協力下，發球機終於完成了。期待之後的8人分組，能再次享受在完成作品後的成就感&lt;/p&gt;
+&lt;/section&gt;
+</t>
 <t tx="leo.20200818195625.1">&lt;section&gt;
 &lt;h2&gt;心得_40823216陳弘勛&lt;/h2&gt;
     &lt;p&gt;在第二次分組的這五個星期中，我能更熟悉快速地去做協同的動作。在做的時候也會遇到各種問題，但是經過組員的協商，我們也都克服了過去，能做完這件作品，是非常開心的，也離不開我的組員的幫助，所以非常的感謝他們。&lt;/p&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20200818195643.1"></t>
-<t tx="leo.20200818195701.1"></t>
+<t tx="leo.20200818195643.1">&lt;section&gt;
+&lt;h2&gt;心得_40823218陳致文&lt;/h2&gt;
+    &lt;p&gt;這次在模擬的部分遇到了不少問題，好幾次球不是卡住就是亂彈，因此經過反覆修改圖檔解決問題，但還是有些許問題尚未解決，經過這次專題以後，也讓我知道CoppeliaSim可能不太適合用來模擬發球機這類的題目&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20200818195701.1">&lt;section&gt;
+&lt;h2&gt;心得_40823238吳容輝&lt;/h2&gt;
+    &lt;p&gt;這次的分組由於是四個人，因此組員們推送的時間上不好配合，於是用了DISCORD這個軟體，並將github的倉儲用webhook做連結讓大家知道誰有做更新，方便管理；這次主要負責修改零件，在修改時因為組員使用不同軟體，所以沒辦法做完全修改，必須分開來，再將檔案集中到一個人身上做組合，有一點沒效率，還可以再加強。&lt;/p&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20210416150042.1">&lt;section&gt;
 &lt;h2&gt;第二版_使用COPPELIASIM模擬&lt;/h2&gt;
 &lt;h4&gt;問題:圓盤部分會碰撞使球彈開。&lt;/h4&gt;
@@ -348,5 +359,9 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
+<t tx="leo.20210423135719.1">&lt;section&gt;
+    &lt;h2&gt;最終組合圖&lt;/h2&gt;
+    &lt;p&gt;&lt;img ait="" height="400" src="./../images/第三版組合圖.png" width="500"/&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
