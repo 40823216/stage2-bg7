@@ -54,6 +54,7 @@
 <v t="leo.20200818195643.1"><vh>40823218</vh></v>
 <v t="leo.20200818195701.1"><vh>40823238</vh></v>
 </v>
+<v t="leo.20210423140532.1"><vh>參考資料</vh></v>
 </v>
 </v>
 </v>
@@ -225,7 +226,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171215.1">&lt;section&gt;
-    &lt;h2&gt;組合圖&lt;/h2&gt;
+    &lt;h2&gt;w6_組合圖&lt;/h2&gt;
     &lt;p&gt;&lt;img ait="" height="400" src="./../images/SLDWORKS_bBDwRsu1AB.png" width="500"/&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20200818171244.1">&lt;section&gt;
@@ -239,7 +240,7 @@ vertical: body pane on the botton</t>
     &lt;h4&gt;圓筒&lt;/h4&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20200818171344.1">&lt;section&gt;
-&lt;h2&gt;w7_使用COPPELIASIM模擬&lt;/h2&gt;
+&lt;h2&gt;w6_使用COPPELIASIM模擬&lt;/h2&gt;
 &lt;h4&gt;問題:因要將球射出，加大馬達扭力後，造成圓筒晃動，所以要改變機構。&lt;/h4&gt;
 &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/sCrbots4E8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;
@@ -305,7 +306,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818195604.1">&lt;section&gt;
-&lt;h2&gt;心得_40823211陳昱&lt;/h2&gt;
+&lt;h2&gt;心得_40823211陳昱愷&lt;/h2&gt;
     &lt;p&gt;這次做的發球機改版了許多次，因為在過程中有許多發球不順的可能，一次一次的改版也一次一次的解決各種問題。過程中，組員一同努力，一同加油打氣，在大家的同心協力下，發球機終於完成了。期待之後的8人分組，能再次享受在完成作品後的成就感&lt;/p&gt;
 &lt;/section&gt;
 </t>
@@ -363,5 +364,11 @@ vertical: body pane on the botton</t>
     &lt;h2&gt;最終組合圖&lt;/h2&gt;
     &lt;p&gt;&lt;img ait="" height="400" src="./../images/第三版組合圖.png" width="500"/&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20210423140532.1">&lt;section&gt;
+&lt;h2&gt;參考資料&lt;/h2&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/aNydiiO0LKk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;
+
+</t>
 </tnodes>
 </leo_file>
